@@ -8,7 +8,7 @@ Click below to instantly load the project:
 
 👉 Open Khemixall in CodeSandbox
 
-(Replace YOUR-USERNAME with your GitHub username if needed.)
+https://codesandbox.io/p/sandbox/github/pgera1/Khemixall-medical-products
 
 If the link fails, use the manual CodeSandbox steps below.
 
