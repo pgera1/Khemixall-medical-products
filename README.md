@@ -23,19 +23,3 @@ Paste your repo URL:
 https://github.com/pger1/Khemixallmedicalproduct
 
 
-CodeSandbox will install dependencies and start the app automatically.
-
-Note: Backend APIs may need separate hosting (Render, Railway, etc.) because CodeSandbox mainly handles frontends.
-
-💻 Run Locally
-# 1. Clone the repo
-git clone https://github.com/pger1/Khemixallmedicalproduct
-cd Khemixall
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev   # for Vite
-# or
-npm start     # for CRA
